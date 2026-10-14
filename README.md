@@ -1,4 +1,3 @@
-# Ander Frago
 ## Desarrollo Aplicaciones  Multiplataforma
 
 Hola! Soy estudiante de Cuatrovientos.
